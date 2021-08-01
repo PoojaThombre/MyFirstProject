@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 5280-BE25
+
+ Directory of C:\Users\pooja.nikam\Desktop\My Project
+
+08/01/2021  11:07 AM    <DIR>          .
+08/01/2021  11:07 AM    <DIR>          ..
+08/01/2021  11:07 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)   8,295,297,024 bytes free
